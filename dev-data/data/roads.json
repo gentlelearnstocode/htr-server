@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "place": "Sapa",
+    "avgPrice": 5000000,
+    "destinations": 30,
+    "url": "https://media.istockphoto.com/photos/terraced-rice-field-in-mu-cang-chai-vietnam-picture-id624183176?b=1&k=20&m=624183176&s=170667a&w=0&h=ufecKMmNQWAfV4H9d_kgu4Tbp3qy2zODK4_Fzfrs8KI=",
+    "alt": "sapa",
+    "duration": 7,
+    "description": "Sapa is a small, mountain town in Lao Cai Province. It is located about 350 km northwest of Hanoi, close to the Chinese border. Here's where you'll find the Hoang Lien Son range of mountains, which includes Fan Si Pan—the country's highest peak. This quiet Vietnamese town is home to different ethnic tribal groups. There are five main ethnic groups in Sapa: the Hmong, Dao, Tay, Giay and Xa Pho. It is said that Sapa was first occupied by the first four groups, since the Vietnamese from the lowlands (better known as the Kinh) did not colonise the highest valleys. These days, Sapa welcomes a diverse range of visitors, attracted by the highland tribes, iconic rice paddies and forest treks. The whole area is blessed with awe-inspiring natural beauty."
+  },
+  {
+    "id": 2,
+    "place": "Ha Long Bay",
+    "avgPrice": 10000000,
+    "destinations": 56,
+    "url": "https://media.istockphoto.com/photos/aerial-view-of-halong-bay-in-vietnam-picture-id941334784?b=1&k=20&m=941334784&s=170667a&w=0&h=LiLtFcqfG9DveZiAiKShlsdrMW0qr0wM2zkUpiu-m3M=",
+    "alt": "ha long bay",
+    "duration": 5, 
+    "description": "Halong Bay is a beautiful natural wonder in northern Vietnam near the Chinese border. The Bay is dotted with 1,600 limestone islands and islets and covers an area of over 1,500 sqkm. This extraordinary area was declared a UNESCO World Heritage Site in 1994. For many tourists, this place is like something right out of a movie. The fact is that Halong Bay features a wide range of biodiversity, while the surrealistic scenery has indeed featured in endless movies."
+  },
+  {
+    "id": 3,
+    "place": "Hue",
+    "avgPrice": 3000000,
+    "destinations": 66,
+    "url": "https://media.istockphoto.com/photos/view-inside-imperial-city-imperial-city-with-the-purple-forbidden-picture-id1299458477?b=1&k=20&m=1299458477&s=170667a&w=0&h=AnHi2GDKtwBMmofKY_9n93hcMom5Z1zuoMHX83W8D_I=",
+    "alt": "hue",
+    "duration": 3,
+    "description": "The ancient city of Hue (pronounced 'whey') in central Vietnam was the capital of Vietnam during the Nguyen Dynasty at the beginning of the 19th Century, and during the Vietnam-US war some of the most intense conflicts occurred in this region. One of Hue's main tourist attractions is the spectacular riverside Hue Citadel or Royal Palace of the Imperial City, built according to the practices of 'feng shui'. Such is Hue's historical significance that it is recognised today as a World Cultural Heritage Site by UNESCO."
+  },
+  {
+    "id": 4,
+    "place": "Hoi An",
+    "avgPrice": 4000000,
+    "destinations": 109,
+    "url": "https://media.istockphoto.com/photos/vietnamese-women-paddling-in-old-town-in-hoi-an-city-vietnam-picture-id1129430360?b=1&k=20&m=1129430360&s=170667a&w=0&h=GGUMmivkfgR_UkaqfRehrI55YiGa3PuSuIhKN3kKX5k=",
+    "alt": "hoian",
+    "duration": 7,
+    "description": "Hoi An Town is an exceptionally well-preserved example of a Southeast Asian trading port dating from the 15th to the 19th century. Its buildings and its street plan reflect the influences, both indigenous and foreign, that have combined to produce this unique heritage site."
+  },
+  {
+    "id": 5,
+    "place": "Ho Chi Minh City",
+    "avgPrice": 3000000,
+    "destinations": 283,
+    "url": "https://media.istockphoto.com/photos/ho-chi-minh-city-hall-in-ho-chi-minh-city-vietnam-picture-id532166870?b=1&k=20&m=532166870&s=170667a&w=0&h=kUVfSqs_-tFrMjgOu2nMw1w4WDNe46yt-EEKSH2ljMs=",
+    "alt": "hcmc",
+    "duration": 4,
+    "description": "Ho Chi Minh City (Saigon) is the business and financial hub of Vietnam, with a prominent history going back hundreds of years. The Khmers originally settled the region, with the Vietnamese taking over in the 17th century. The French conquered Saigon, as it was then known, in 1859, and made it the capital of Cochin China in 1862, which resulted in numerous elegant architecture and broad boulevards that are still present to this day."
+  },
+  {
+    "id": 6,
+    "place": "Mekong Delta",
+    "avgPrice": 2500000,
+    "destinations": 89,
+    "url": "https://media.istockphoto.com/photos/vietnamese-women-selling-fruits-on-floating-market-mekong-river-delta-picture-id1135301314?b=1&k=20&m=1135301314&s=170667a&w=0&h=0m7N3yqQA1k8uSulxUJC9TJF4YbDIWtRR9bOUJO0r_A=",
+    "alt": "mekong",
+    "duration": 3,
+    "description": "The Mekong Delta is a network of tributaries in southwest Vietnam, between Ho Chi Minh City and Cambodia. The river itself starts in the Himalayas and passes through China, Myanmar, Thailand and Cambodia before reaching Vietnam, which partly explains why the waters are so murky."
+  }
+]
